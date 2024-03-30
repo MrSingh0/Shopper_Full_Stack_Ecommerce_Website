@@ -10,7 +10,8 @@ Shopper is a full-stack, fully responsive ecommerce website, maximum compatiblit
 
 ## Demo
 
-![Shopper Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![Shopper Desktop Demo](![Beige Minimal Friendship Relationship Photo Collage (1)](https://github.com/MrSingh0/Shopper_Full_Stack_Ecommerce_Website/assets/136845755/c39ed9b3-c61b-4a30-abd4-387c88c55f3a)
+)
 ![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
 ## Prerequisites
