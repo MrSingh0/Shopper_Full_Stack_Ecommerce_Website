@@ -29,22 +29,25 @@ Before you begin, ensure you have met the following requirements:
 
 To install **SHOPPER**, follow these steps:
 
-Step1: Install Npm libraries.
-Step2: For backend Folder run below command in terminal:
-        Npm init
-        Npm install express
-        Npm install jsonwebtoken
-        Npm install mongoose
-        Npm install multer
-        Npm install cors
-Step3: Install React vite directory.
+Step 1: Install Npm libraries.
+Step 2: For backend Folder run below command in terminal:
+   - `npm init`
+   - `npm install express`
+   - `npm install jsonwebtoken`
+   - `npm install mongoose`
+   - `npm install multer`
+   - `npm install cors`
+
+Step 3: Install React vite directory.
 
 ## Run SHOPPER
-Open Terminalm run below commend in that specific folder:
 
-Frontend: npm start
-Backend: node index.js
-Admin: npm run dev
+Open Terminal, run below command in that specific folder:
+
+- Frontend: `npm start`
+- Backend: `node index.js`
+- Admin: `npm run dev`
+
 
 ## Contact
 
