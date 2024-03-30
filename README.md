@@ -25,26 +25,31 @@ Before you begin, ensure you have met the following requirements:
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 * [node](https://www.npmjs.com/) must be installed on your operating system.
 
-## Installing Anon
+## Installing SHOPPER
 
 To install **SHOPPER**, follow these steps:
 
-Linux and macOS:
+Step1: Install Npm libraries.
+Step2: For backend Folder run below command in terminal:
+        Npm init
+        Npm install express
+        Npm install jsonwebtoken
+        Npm install mongoose
+        Npm install multer
+        Npm install cors
+Step3: Install React vite directory.
 
-```bash
-sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
-```
+## Run SHOPPER
+Open Terminalm run below commend in that specific folder:
 
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/anon-ecommerce-website.git
-```
+Frontend: npm start
+Backend: node index.js
+Admin: npm run dev
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact me you can reach me at [Linedin](www.linkedin.com/in/priyam-kumar-51406424b).
 
 ## License
 
-This project is **free to use** and does not contains any license.
+This project is contain MIT license.
