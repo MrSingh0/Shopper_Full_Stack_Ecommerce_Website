@@ -23,13 +23,11 @@ Shopper is a full-stack, fully responsive ecommerce website, maximum compatiblit
 Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-* [npm](https://www.npmjs.com/)
-* [Express](https://www.npmjs.com/package/express)
-* [React](https://react.dev/)
+* [node](https://www.npmjs.com/) must be installed on your operating system.
 
 ## Installing Anon
 
-To install **Anon**, follow these steps:
+To install **SHOPPER**, follow these steps:
 
 Linux and macOS:
 
