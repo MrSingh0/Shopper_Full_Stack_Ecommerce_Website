@@ -1,4 +1,10 @@
-## SHOPPER - An eCommerce Website ![logo_big](https://github.com/MrSingh0/Shopper_Full_Stack_Ecommerce_Website/assets/136845755/69ae7aa5-8178-4915-9bb6-27209b7791a9)
+<div style="text-align:center;">
+  <img src="https://github.com/MrSingh0/Shopper_Full_Stack_Ecommerce_Website/assets/136845755/69ae7aa5-8178-4915-9bb6-27209b7791a9" alt="logo_big">
+</div>
+
+<div align="center">
+  <h2>SHOPPER - An eCommerce Website</h2>
+</div>
 
 
 
