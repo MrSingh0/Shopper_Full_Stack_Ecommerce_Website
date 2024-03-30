@@ -6,11 +6,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
 [![YouTube Video Views](https://img.shields.io/youtube/views/3l8Lob4ysI0?style=social)](https://youtu.be/3l8Lob4ysI0)
 
-Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
+Shopper is a full-stack, fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using React, Nodejs, Expressjs and MongoDB.
 
 ## Demo
 
-![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![Shopper Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
 ![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
 ## Prerequisites
