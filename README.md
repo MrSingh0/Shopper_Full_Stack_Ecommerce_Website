@@ -50,7 +50,7 @@ Open Terminal, run below command in that specific folder:
 
 ## Contact
 
-If you want to contact me you can reach me at [Linedin](www.linkedin.com/in/priyam-kumar-51406424b).
+If you want to contact me you can reach me at [Linkedin](www.linkedin.com/in/priyam-kumar-51406424b).
 
 ## License
 
