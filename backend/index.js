@@ -10,7 +10,7 @@ const cors = require("cors");
 app.use(express.json()); //automatic convert response into .json
 app.use(cors());
 
-mongoose.connect("mongodb+srv://Ecommerce:Ecommerce@cluster0.97iqumw.mongodb.net/");
+mongoose.connect("PASTE YOU MONGODB LINK");
 
 app.get("/",(req,res)=>{
     res.send("Express App is Running")
